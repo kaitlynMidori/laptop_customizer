@@ -1,5 +1,7 @@
 import React from 'react';
-import Features from './Features';
+import Specs from './Specs';
+import Option from './Option'
+import Features from './Specs';
 
 export default function MainForm(props) {
   const { currencyFormat } = props;

@@ -1,4 +1,5 @@
 import React from 'react';
+import Specs from './Features';
 import Features from './Features';
 
 export default function MainForm(props) {

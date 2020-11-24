@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import MainForm from './components/MainForm';
-import MainSummary from './components/MainSummary';
+import MainForm from './MainForm';
+import MainSummary from './MainSummary';
 import './App.css';
 
 // This object will allow us to

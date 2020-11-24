@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import MainForm from './components/MainForm';
-import MainSummary from './components/MainSummary';
 import './App.css';
+
+import MainForm from './MainForm';
+import MainSummary from './MainSummary';
 
 // This object will allow us to
 // easily convert numbers into US dollar values
