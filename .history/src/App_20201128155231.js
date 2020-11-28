@@ -71,7 +71,7 @@
 import React, { Component } from 'react';
 import Summary from './Summary';
 import FeaturesForm from './FeaturesForm';
-import SummaryTotal from './SummaryTotal';
+import SummaryTotal from '/SummaryTotal';
 
 import './App.css';
 

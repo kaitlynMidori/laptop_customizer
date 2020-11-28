@@ -69,9 +69,9 @@
 // export default App;
 
 import React, { Component } from 'react';
-import Summary from './Summary';
-import FeaturesForm from './FeaturesForm';
-import SummaryTotal from './SummaryTotal';
+import Summary from '/Summary';
+import FeaturesForm from '../FeaturesForm';
+import SummaryTotal from '/SummaryTotal';
 
 import './App.css';
 
